@@ -1,4 +1,4 @@
-![banner](https://github.com/Felipe-Pocasangre/Felipe-Pocasangre/blob/main/banner.png?raw=true)
+(https://github.com/Felipe-Pocasangre/Felipe-Pocasangre/blob/main/banner.png?raw=true)
 # Hola, soy Felipe! 😺
 Soy un programador junior con más de 3 años de experiencia en el desarrollo y diseño de aplicaciones web y móviles. Me apasiona crear soluciones tecnológicas funcionales, intuitivas y bien estructuradas.
 
